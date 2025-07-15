@@ -23,16 +23,16 @@
 
 ## 🚀 Features
 
-- <img src="https://tabler.io/icons/icon/file-invoice.svg" width="20"/> **Instant Invoice Creation** – Fill, preview, and download PDF invoices in seconds.
-- <img src="https://tabler.io/icons/icon/user.svg" width="20"/> **Sender & Recipient Details** – Add name, email, address, and mobile number for both parties.
-- <img src="https://tabler.io/icons/icon/currency-rupee.svg" width="20"/> **Multi-currency & Tax** – Supports any currency, item/invoice discounts, and tax rates.
-- <img src="https://tabler.io/icons/icon/building-bank.svg" width="20"/> **Bank/Payment Details** – Add bank name, account, IFSC, SWIFT/BIC, etc.
-- <img src="https://tabler.io/icons/icon/brand-apple-arcade.svg" width="20"/> **Live Preview** – See your invoice update in real-time as you type.
-- <img src="https://tabler.io/icons/icon/file-download.svg" width="20"/> **PDF Download** – Download ready-to-send, professional PDF invoices.
-- <img src="https://tabler.io/icons/icon/brush.svg" width="20"/> **Custom Logo & Branding** – Upload your logo or use the default.
-- <img src="https://tabler.io/icons/icon/lock.svg" width="20"/> **Privacy-First** – All data stays on your device. No signup, no tracking.
-- <img src="https://tabler.io/icons/icon/smart-home.svg" width="20"/> **Responsive & Mobile-Ready** – Works beautifully on all devices.
-- <img src="https://tabler.io/icons/icon/sparkles.svg" width="20"/> **Premium UI/UX** – Built with modern design, smooth animations, and best practices.
+- 🚀 **Instant Invoice Creation** – Fill, preview, and download PDF invoices in seconds.
+- 👤 **Sender & Recipient Details** – Add name, email, address, and mobile number for both parties.
+- 💸 **Multi-currency & Tax** – Supports any currency, item/invoice discounts, and tax rates.
+- 🏦 **Bank/Payment Details** – Add bank name, account, IFSC, SWIFT/BIC, etc.
+- 👁️ **Live Preview** – See your invoice update in real-time as you type.
+- 📥 **PDF Download** – Download ready-to-send, professional PDF invoices.
+- 🎨 **Custom Logo & Branding** – Upload your logo or use the default.
+- 🔒 **Privacy-First** – All data stays on your device. No signup, no tracking.
+- 📱 **Responsive & Mobile-Ready** – Works beautifully on all devices.
+- ✨ **Premium UI/UX** – Built with modern design, smooth animations, and best practices.
 
 ---
 
@@ -158,8 +158,7 @@ invoice-generator/
   └── ...
 ```
 
-<details>
-<summary>Mermaid Diagram</summary>
+> **Note:** To view the diagram below, make sure GitHub's "Markdown: Enable Mermaid" feature is enabled in your profile settings (or use VS Code with Mermaid preview).
 
 ```mermaid
 flowchart TD
@@ -181,7 +180,6 @@ flowchart TD
   K[tailwind.config.js]
   L[tsconfig.json]
 ```
-</details>
 
 ---
 
